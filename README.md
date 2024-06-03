@@ -18,7 +18,28 @@ This is a simple todo list application built with React Native, Expo, and Fireba
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/your-username/todoApp.git
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd todoApp
+
+4. **Install dependencies:**
+   ```bash
+   npx install
+
+6. **Set up Firebase:**
+
+   Create a Firebase project in the Firebase console.
+   Enable Firebase Authentication and Firestore.
+   Copy your Firebase configuration and replace the placeholders in firebaseConfig.js with your own Firebase config.
+   Set up authentication methods (e.g., Email/Password) in the Firebase console.
+
+7. **Start the Expo development server:**
+   ```bash
+   npx expo start
+   
+9. **Use the Expo Go app on your iOS or Android device to scan the QR code and open the app.**
