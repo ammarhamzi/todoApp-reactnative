@@ -2,7 +2,7 @@
 
 This is a simple todo list application built with React Native, Expo, and Firebase. Users can create an account, sign in, add new todos, mark todos as done, and view their todo list.
 
-#Note
+##Note
 Some features are still in the work
 
 ## Features
