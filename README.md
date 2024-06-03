@@ -2,6 +2,9 @@
 
 This is a simple todo list application built with React Native, Expo, and Firebase. Users can create an account, sign in, add new todos, mark todos as done, and view their todo list.
 
+#Note
+Some features are still in the work
+
 ## Features
 
 - User authentication with Firebase Authentication
@@ -21,7 +24,7 @@ This is a simple todo list application built with React Native, Expo, and Fireba
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/todoApp.git
+   git clone https://github.com/ammarhamzi/todoApp-reactnative.git
 
 2. **Navigate to the project directory:**
    ```bash
